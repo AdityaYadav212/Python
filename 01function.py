@@ -1,0 +1,5 @@
+a=int(input('enter value a'))
+b=int(input('enter value b'))
+c= int (input('enter 1 or 0'))
+out=a*c+b*(1-c)
+print(out)
